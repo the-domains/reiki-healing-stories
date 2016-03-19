@@ -1,0 +1,28 @@
+name: Reiki Healing Stories
+favicon: null
+layout_spectrum: 0.5132767031900585
+typography_spectrum: 0.5145671276841313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6018463810905814
+  lightness: 0.2655272511765361
+  saturation: 0.45851827901788056
+  rhythmicContrast: 0.03274247096851468
+purpose: []
